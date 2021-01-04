@@ -1,4 +1,10 @@
-## Sales Insights Data Analysis Project
+# Sales Insights Data Analysis Project
+
+This project was done with an aim to analyse the performance of sales based on various attributes like,
+* Products
+* Year
+* Region
+* Distribution channels
 
 ### Instructions to setup mysql on your local computer
 
