@@ -1,10 +1,19 @@
 # Sales Insights Data Analysis Project
 
+## Dashboard
+![alt-text](https://github.com/sanett/sales-insights-Power-BI-SQL/blob/master/Dashboard.gif)
+
 This project was done with an aim to analyse the performance of sales based on various attributes like,
 * Products
 * Year
 * Region
 * Distribution channels
+
+## Star Schema - Database Modeling
+Follow the below steps to setup the MySQL database and dump the data in it using the file `dump.sql`
+
+Once done import the database in Power BI and use the scehamtic database to create a start schema of your model.
+![alt-text](https://github.com/sanett/sales-insights-Power-BI-SQL/blob/master/DataModelling.gif)
 
 ### Instructions to setup mysql on your local computer
 
