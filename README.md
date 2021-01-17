@@ -15,14 +15,13 @@ Follow the below steps to setup the MySQL database and dump the data in it using
 Once done import the database in Power BI and use the scehamtic database to create a start schema of your model.
 ![alt-text](https://github.com/sanett/sales-insights-Power-BI-SQL/blob/master/DataModelling.gif)
 
-### Instructions to setup mysql on your local computer
+## Getting Started
 
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
+1. Download and install MySQl in your local machine.
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+1. SQL database dump for download is available in (https://github.com/sanett/sales-insights-Power-BI-SQL/blob/master/db_dump_version_2.sql) file above.
 
-### Data Analysis Using SQL
+## Data Analysis Using SQL
 
 1. Show all customer records
 
